@@ -1,27 +1,28 @@
-# مرحبًا! 👋 أنا أرغد حمامي
+# Hello and welcome to the world of data! 👋 I'm Arghad Hamammi
 
-مرحبًا بك في ملفي الشخصي على GitHub!  
-أنا **أرغد حمامي**، حاصل على شهادة البكالوريوس في **هندسة البرمجيات**، وأطمح إلى تطوير مسيرتي المهنية في مجالات **هندسة البيانات**، **تطوير البرمجيات**، و**الذكاء الاصطناعي**.
+Passionate about transforming numbers into strategic decisions and insights.  
+I am a **Data Analyst** specializing in extracting value from big data using **Artificial Intelligence (AI)** techniques. I have practical experience with big data tools such as **Apache Spark** and **Hadoop**, and I am proficient in powerful programming languages like **Python** and **Java**.
 
-## 🛠️ المهارات التقنية
-- **لغات البرمجة**: Python, Java, Dart, JavaScript  
-- **تقنيات البيانات الكبيرة**: Apache Hadoop, Apache Spark  
-- **تطوير التطبيقات**: Flutter, REST APIs  
-- **تعلم الآلة والشبكات العصبية**: TensorFlow, PyTorch, Scikit-learn  
-- **أدوات أخرى**: Docker, Git, Jupyter Notebook
+## 🛠️ My Technical Toolbox
+- **Programming Languages:** Python, Java, SQL, Scala  
+- **Big Data Tools:** Apache Spark, Hadoop  
+- **Machine Learning:** Scikit-learn, TensorFlow, Keras  
+- **Data Visualization:** Power BI, Tableau, Plotly, Dash, Matplotlib, Seaborn  
+- **Databases:** MySQL, MongoDB, PostgreSQL, SQLite, Microsoft SQL Server, Apache Hive  
+- **Data Analysis Tools:** Pandas, NumPy  
 
-## 💡 اهتماماتي
-- تحليل البيانات المالية وتطوير حلول ذكاء اصطناعي للتنبؤ بالأسواق.  
-- بناء تطبيقات مخصصة باستخدام Flutter لتقديم تجربة مستخدم جذابة.  
-- مقارنة أداء تقنيات معالجة البيانات الكبيرة مثل Hadoop وSpark.
+## 💡 My Highlighted Projects
+- **Big Data Analysis for Stock Markets:**  
+  Developed a system to predict stock markets using Hadoop, Spark, and Python with AI techniques. This project accelerated analysis by 80% and increased prediction accuracy by 30%, supporting strategic decisions.
 
-## 📚 المشاريع البارزة
-- **[توليد بيانات الأسهم باستخدام GANs](#):** نموذج ذكاء اصطناعي يولد بيانات مالية عالية الجودة.  
-- **[تحليل الأداء بين Hadoop وSpark](#):** دراسة مقارنة باستخدام بيانات مالية ضخمة.  
-- **[تطبيق Flutter لتتبع البيانات](#):** تطبيق مخصص بواجهة مستخدم احترافية.
+- **Financial Data Cleaning and Integration:**  
+  Led a project to clean and integrate financial data from CSV files using Python and Pandas, transforming data into structured formats, querying with SQL, and presenting via an interactive Power BI dashboard.
 
-## 🌐 تواصل معي
-- **LinkedIn**: [Arghad Hamammi](https://linkedin.com/in/arghad-hamammi-111562314)  
-- **البريد الإلكتروني**: [ArghadHamammi@gmail.com](mailto:ArghadHamammi@gmail.com)  
+- **Smart Sales Prediction System:**  
+  Developed an intelligent model to predict future product sales based on historical data and influencing factors like seasons and prices, enhancing inventory planning and marketing decisions.
 
-شكرًا لزيارتك! 🎉 لا تتردد في استكشاف مشاريعي والتواصل معي لأي استفسار.
+## 🌐 Contact Me
+- **LinkedIn:** Arghad Hamammi  
+- **Email:** [ArghadHamammi@gmail.com](mailto:ArghadHamammi@gmail.com)  
+
+Thank you for visiting! 🎉 Feel free to explore my projects and connect with me. I'm excited to build innovative solutions together!
